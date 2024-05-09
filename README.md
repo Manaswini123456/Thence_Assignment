@@ -3,6 +3,8 @@
 ## Brunel 
 ![image](https://github.com/Manaswini123456/Thence_Assignment/assets/91537487/2280a4bf-f95c-4f85-8a58-56cd815a0aeb)
 
+- Deployment: https://thence-assignment-mocha.vercel.app/ 
+
 
 This project is a simple template for getting started with React, Vite, and Tailwind CSS.
 
