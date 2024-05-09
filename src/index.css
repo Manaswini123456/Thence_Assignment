@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.title {
+    @media screen and (max-width: 640px) {
+        font-size: 30px;
+        
+    }
+}
+
+.copyright{
+    @media screen and (max-width: 640px) {
+        font-size: 15px;
+        
+    }
+}
+
+.side_copy{
+    @media screen and (max-width: 640px) {
+        font-size: 15px;
+        
+    }
+}
+
+.card{
+    @media screen and (max-width: 640px) {
+        height: '60%';
+        width: '80%';
+        
+    }
+}
+
+@media (max-width: 1200px) {
+    .flex.absolute.right-0.bottom-0 {
+      right: 0;
+      top: 0;
+      transform: translate(100%, -10%);
+    }
+  }
+  
+  
